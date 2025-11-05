@@ -129,6 +129,18 @@ git config --global user.email "your.email@example.com"
 
 ---
 
+## How to check if you did that set up correctly:
+
+<div align="center">
+  
+[![Watch the video](https://img.youtube.com/vi/kSeLX5NcIOo/0.jpg)](https://www.youtube.com/watch?v=CW8MT0-lWas)
+
+</div>
+
+📺 **[Watch on YouTube](https://youtu.be/kSeLX5NcIOo)**
+
+---
+
 ## How to make a copy of the template and get it running on your laptop:
 
 <div align="center">
