@@ -2,9 +2,9 @@
 
 Welcome! This is a starter template for building web applications with Next.js and Supabase. If you're new to coding, don't worry - this guide will walk you through everything step by step.
 
-## What is This Project?
+## What is This Template?
 
-This template gives you a complete starting point for building a web application that includes:
+This template gives you a complete starting point for building a full web application that includes:
 - **User authentication** (sign up, login, password reset)
 - **Protected pages** (pages only logged-in users can see)
 - Supabase database connection (database so your app can save stuff)
